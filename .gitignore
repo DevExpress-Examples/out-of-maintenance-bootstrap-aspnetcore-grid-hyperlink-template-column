@@ -1,0 +1,6 @@
+.vs/
+.git/
+bin/
+obj/
+upload_tmp/
+how-to-upload-files-along-with-other-form-data/UploadControlCore/wwwroot/Content/
