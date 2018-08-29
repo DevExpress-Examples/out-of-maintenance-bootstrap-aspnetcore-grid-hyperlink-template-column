@@ -12,6 +12,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\**\*.*" CopyToPublishDirectory="Always" />
+  </ItemGroup>
+  <ItemGroup>
     <Folder Include="Content\" />
   </ItemGroup>
 </Project>
